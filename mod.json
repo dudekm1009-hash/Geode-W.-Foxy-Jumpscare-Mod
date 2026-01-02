@@ -1,0 +1,8 @@
+{
+  "id": "mistrz.witheredfoxyjumpscare",
+  "name": "Withered Foxy Jumpscare",
+  "version": "1.0.0",
+  "developer": "Mistrz",
+  "description": "Animated fullscreen Withered Foxy jumpscare. Test on start + random 1/1000.",
+  "geode": ">=2.0.0"
+}
